@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/Derangement/application/models/Materiel_Model.php</file>
+            <file>file:/C:/xampp/htdocs/Derangement/application/controllers/PanneEnAttente.php</file>
+            <file>file:/C:/xampp/htdocs/Derangement/application/models/Carte_Model.php</file>
+            <file>file:/C:/xampp/htdocs/Derangement/application/controllers/Recherche.php</file>
+            <file>file:/C:/xampp/htdocs/Derangement/application/controllers/Register.php</file>
+            <file>file:/C:/xampp/htdocs/Derangement/application/controllers/To_Excel.php</file>
+            <file>file:/C:/xampp/htdocs/Derangement/application/views/templates/_parts/auth_master_header_view.php</file>
+            <file>file:/C:/xampp/htdocs/Derangement/application/views/intervention/index_view.php</file>
+            <file>file:/C:/xampp/htdocs/Derangement/application/views/toExcel/index_view.php</file>
+            <file>file:/C:/xampp/htdocs/Derangement/application/controllers/PanneVisualisation.php</file>
+            <file>file:/C:/xampp/htdocs/Derangement/application/controllers/Intervention.php</file>
+            <file>file:/C:/xampp/htdocs/Derangement/application/models/GPS_Model.php</file>
+            <file>file:/C:/xampp/htdocs/Derangement/application/models/To_Excel_Model.php</file>
+            <file>file:/C:/xampp/htdocs/Derangement/application/views/GPS/carte.php</file>
+            <file>file:/C:/xampp/htdocs/Derangement/application/controllers/GPS.php</file>
+            <file>file:/C:/xampp/htdocs/Derangement/application/views/panne/edit_view.php</file>
+            <file>file:/C:/xampp/htdocs/Derangement/application/views/panne/visualisation.php</file>
+            <file>file:/C:/xampp/htdocs/Derangement/application/controllers/Contact.php</file>
+            <file>file:/C:/xampp/htdocs/Derangement/application/libraries/Bcrypt.php</file>
+            <file>file:/C:/xampp/htdocs/Derangement/application/models/Installation_Model.php</file>
+            <file>file:/C:/xampp/htdocs/Derangement/application/controllers/PanneEdit.php</file>
+            <file>file:/C:/xampp/htdocs/Derangement/application/models/Intervention_Model.php</file>
+            <file>file:/C:/xampp/htdocs/Derangement/application/models/Panne_Model.php</file>
+            <file>file:/C:/xampp/htdocs/Derangement/application/models/TypePanne_Model.php</file>
+            <file>file:/C:/xampp/htdocs/Derangement/application/views/carte/carte.php</file>
+            <file>file:/C:/xampp/htdocs/Derangement/application/controllers/User.php</file>
+            <file>file:/C:/xampp/htdocs/Derangement/application/views/naviguation/naviguation.php</file>
+            <file>file:/C:/xampp/htdocs/Derangement/application/config/autoload.php</file>
+            <file>file:/C:/xampp/htdocs/Derangement/application/controllers/Carte.php</file>
+            <file>file:/C:/xampp/htdocs/Derangement/application/views/panne/index_view.php</file>
+            <file>file:/C:/xampp/htdocs/Derangement/application/views/templates/auth_master_view.php</file>
+            <file>file:/C:/xampp/htdocs/Derangement/application/views/panne/panneAttente_view.php</file>
+            <file>file:/C:/xampp/htdocs/Derangement/application/controllers/Dashboard.php</file>
+            <file>file:/C:/xampp/htdocs/Derangement/application/views/templates/public_master_view.php</file>
+            <file>file:/C:/xampp/htdocs/Derangement/application/views/register/index_view.php</file>
+            <file>file:/C:/xampp/htdocs/Derangement/application/controllers/Panne.php</file>
+            <file>file:/C:/xampp/htdocs/Derangement/application/views/panne/recherche.php</file>
+            <file>file:/C:/xampp/htdocs/Derangement/application/controllers/AdminController.php</file>
+        </group>
+    </open-files>
+</project-private>

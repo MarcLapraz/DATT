@@ -1,0 +1,189 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:100,300,400);
+html, 
+body{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    background: #eee;
+}
+
+.formUser{ 
+    background: white;   
+}
+
+.buttonUser{
+    margin:0 auto;
+    display:block;
+}
+    
+.btn-huge{
+    padding-top:20px;
+    padding-bottom:20px;
+}
+
+
+
+
+
+
+.row {
+    display: flex;
+}
+
+/* Create two equal columns that sits next to each other */
+.column {
+    flex: 50%;
+    padding: 10px;
+   
+}
+
+#inner {
+  display: table;
+  margin: 0 auto;
+}
+
+
+
+/* bouton rond utilisé sur la page ajouter un utilisateur et connexion */
+.btn-circle.btn-lg {
+  width: 75px;
+  height: 75px;
+  padding: 10px 16px;
+  font-size: 40px;
+  line-height: 1.33;
+  border-radius: 75px;
+}
+
+
+textarea {
+   resize: none;
+}
+
+.testHover #inner-box {
+    background: #96BD0D;
+    height: 100%;
+    width: 100%;
+    opacity: 0;
+    top: 0;
+    left: 0;
+    position: absolute;
+    padding: 0;
+    transition: opacity .5s;
+}
+
+
+/* line 25, ../sass/style.scss */
+.testHover #inner-box p {
+    color: #fff;
+    line-height: 150px;
+    font-family: 'arial';
+    text-align: center;
+}
+/* line 34, ../sass/style.scss */
+.testHover:hover #inner-box {
+    opacity: .9;
+    transition: opacity .5s;
+}
+
+.red {
+    background-color: red !important;
+}
+
+#formMatos {
+    background-color: #96BD0D;
+
+}
+
+.custab{
+    border: 1px solid #ccc;
+    padding: 5px;
+    margin: 5% 0;
+    box-shadow: 3px 3px 2px #ccc;
+    transition: 0.5s;
+}
+.custab:hover{
+    box-shadow: 3px 3px 0px transparent;
+    transition: 0.5s;
+}
+
+
+.modal-backdrop{z-index: 1050;}
+.modal{z-index: 1060;}
+
+img[usemap] {
+    border: none;
+    height: auto;
+    max-width: 100%;
+    width: auto;
+}
+
+
+img {
+    display: block; /*for the img inside your div */ 
+    margin: 0 auto ;
+
+    max-width: 100%;
+    max-height: 100%;
+
+}
+
+div {
+    border: 0px solid black;
+    margin: 0px;
+
+}
+.MyContainer div {
+    margin: 0px auto;
+    width: 60%;
+}
+
+.item {
+    color: red;
+    font:15px candara,sans-serif;
+}
+
+.error {
+    color: red;
+}
+.row-centered {
+    text-align:center;
+}
+.col-centered {
+    display:inline-block;
+    float:none;
+    /* reset the text-align */
+    text-align:left;
+    /* inline-block space fix */
+    margin-right:-4px;
+}
+.btn-round-lg{
+    border-radius: 22.5px;
+}
+.btn-round{
+    border-radius: 17px;
+}
+.btn-round-sm{
+    border-radius: 15px;
+}
+.btn-round-xs{
+    border-radius: 11px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.navbar-brand { position: relative; z-index: 2; }
+.navbar-nav.navbar-right .btn { position: relative; z-index: 2; padding: 4px 20px; margin: 10px auto; }
+.navbar .navbar-collapse { position: relative; }
+.navbar .navbar-collapse .navbar-right > li:last-child { padding-left: 22px; }
+.navbar .nav-collapse { position: absolute; z-index: 1; top: 0; left: 0; right: 0; bottom: 0; margin: 0; padding-right: 120px; padding-left: 80px; width: 100%; }
+.navbar.navbar-default .nav-collapse { background-color: #f8f8f8; }
+.navbar.navbar-inverse .nav-collapse { background-color: #222; }
+.navbar .nav-collapse .navbar-form { border-width: 0; box-shadow: none; }
+.nav-collapse>li { float: right; }
+.btn.btn-circle { border-radius: 50px; }
+.btn.btn-outline { background-color: #42f44e; }
+@media screen and (max-width: 767px) {
+    .navbar .navbar-collapse .navbar-right > li:last-child { padding-left: 15px; padding-right: 15px; } 
+    .navbar .nav-collapse { margin: 7.5px auto; padding: 0; }
+    .navbar .nav-collapse .navbar-form { margin: 0; }
+    .nav-collapse>li { float: none; }
+}
